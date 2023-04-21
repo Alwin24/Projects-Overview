@@ -1,4 +1,4 @@
-# Alwin's Projects-Overview
+# Projects-Overview
 
 ## Experience and About Me
 - 1 year of experience as a solana blockchain developer
